@@ -1,0 +1,18 @@
+{
+  "common": {
+    "elements": {
+
+        "mail area": "login-email",
+        "register button": "//*[@id=\"login-register\"]/div[3]/div[2]/form/button/span",
+        "password area": "login-password-input",
+        "login button": "/html/body/div[4]/div/div[3]/div[1]/form/button/span",
+        "KADIN": "sub-nav-1",
+        "Kadın sağlık tab": "/html/body/div[4]/div[2]/div/div[2]/div[1]/div[1]/article[1]/a/span/img",
+         "kadın sağlık first item": "/html/body/div[4]/div/div/div[3]/div/div[1]/a/div[3]/div[1]/span[2]",
+          "sepete ekle button": "/html/body/div[4]/div/div/div[3]/div/div[1]/button/div[1]",
+          "sepetim icon": "/html/body/div[3]/div[1]/div/div[2]/div[3]/div/div/div[2]/div[2]",
+          "sepetim ürün": "/html/body/div[4]/div[2]/div[2]/section/section[1]/div[2]/div/div/div[2]/div[2]/a/p[1]"
+
+    }
+  }
+}

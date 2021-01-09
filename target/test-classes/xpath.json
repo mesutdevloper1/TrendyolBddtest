@@ -1,0 +1,12 @@
+{
+  "common": {
+    "elements": {
+"mail area": "login-email",
+"register button": "//*[@id=\"login-register\"]/div[3]/div[2]/form/button/span",
+"password area": "login-password-input",
+      "login button": "/html/body/div[4]/div/div[3]/div[1]/form/button/span",
+
+
+    }
+  }
+}
